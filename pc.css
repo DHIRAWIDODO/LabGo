@@ -6,8 +6,8 @@
 }
 
 .navbar {
-  background-color: #0073ff;
-  color: #dfff00;
+  background-color: #0367FD;
+  color: #D1F801;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -34,12 +34,12 @@
 }
 
 .navbar ul li a:hover {
-  color: #dfff00;
+  color: #D1F801;
   text-decoration: underline;
 }
 
 .navbar ul li a.active {
-  color: #dfff00;
+  color: #D1F801;
   text-decoration: underline;
 }
 
@@ -48,7 +48,7 @@
 }
 
 .container h2 {
-    color: #0044cc;
+    color: #0367FD;
     font-style: italic;
     margin-bottom: 20px;
 }
@@ -56,11 +56,11 @@
 table {
     width: 85%;
     border-collapse: collapse;
-    background: #d8ff00; 
+    background: #D1F801; 
     box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
     border-radius: 10px;
     overflow: hidden;
-    color: #0044cc;
+    color: #0367FD;
     font-weight: medium;
     margin-left: 80px;
 }
@@ -71,14 +71,14 @@ h2{
 }
 
 thead {
-    background: #0073ff;
+    background: #0367FD;
     color: white;
 }
 
 th, td {
     padding: 12px;
     text-align: center;
-    border: 1.5px solid #0073ff;
+    border: 1.5px solid #0367FD;
 }
 
 td{
@@ -86,5 +86,5 @@ td{
 }
 
 tbody tr:nth-child(even) {
-    background: #e6ff66;
+    background: #D1F801;
 }
